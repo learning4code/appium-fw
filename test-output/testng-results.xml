@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87068" started-at="2020-02-29T11:48:41 IST" finished-at="2020-02-29T11:50:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87068" started-at="2020-02-29T11:48:41 IST" finished-at="2020-02-29T11:50:08 IST">
+      <class name="qa.mobile.Test1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:qa.mobile.Test1@25af5db5]" name="beforeClass" is-config="true" duration-ms="76617" started-at="2020-02-29T11:48:41 IST" finished-at="2020-02-29T11:49:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="invalidPwd()[pri:0, instance:qa.mobile.Test1@25af5db5]" name="invalidPwd" duration-ms="3258" started-at="2020-02-29T11:49:57 IST" finished-at="2020-02-29T11:50:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPwd -->
+        <test-method status="PASS" signature="invalidUser()[pri:0, instance:qa.mobile.Test1@25af5db5]" name="invalidUser" duration-ms="2146" started-at="2020-02-29T11:50:01 IST" finished-at="2020-02-29T11:50:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUser -->
+        <test-method status="PASS" signature="validCredentials()[pri:0, instance:qa.mobile.Test1@25af5db5]" name="validCredentials" duration-ms="3479" started-at="2020-02-29T11:50:03 IST" finished-at="2020-02-29T11:50:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:qa.mobile.Test1@25af5db5]" name="afterClass" is-config="true" duration-ms="1486" started-at="2020-02-29T11:50:06 IST" finished-at="2020-02-29T11:50:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- qa.mobile.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
